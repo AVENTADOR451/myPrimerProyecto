@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background: url('/img/coding 3.png') top / cover fixed;
+}
+
+.box1 {
+    background-color: red;
+    margin: 0;
+    width: 100vw;
+    height: 50vh;
+}
+
+.medio {
+    background-color: rgba(0, 0, 0, 0);
+    height: 30vh;
+    width: 100vw;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 0px black, -2px -2px 0px black, 2px -2px 0px black, -2px 2px 0px black;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+.box2 {
+    background-color: rgb(255, 0, 0);
+    height: 50vh;
+    width: 100vw;
+}

@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+}
+
+.card {
+    font-family: sans-serif;
+}
+
+.box1 {
+    margin: auto;
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    background-color: rgb(1, 194, 129);
+    font-family: sans-serif;
+    box-shadow: 0 0 24px 0 rgb(255, 0, 0);
+    padding: 20px;
+    margin-bottom: 70px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 70px
+}

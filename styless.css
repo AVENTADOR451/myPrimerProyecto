@@ -1,0 +1,32 @@
+body {
+    background: url('img/coding 3.png') top / cover no-repeat fixed;
+    height: 100vh; /* Asegura que el fondo cubra toda la altura de la ventana */
+    margin: 0; /* Elimina el margen predeterminado del body */
+    font-family: sans-serif;
+    font-weight: 600;
+    word-wrap: normal;    
+}
+
+
+.parrafo1 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 0px black, -2px -2px 0px black, 2px -2px 0px black, -2px 2px 0px black;
+}
+
+.tareas {
+    border-left: 15px solid rgb(102, 102, 102);
+    box-sizing: border-box;
+    background: linear-gradient(to right, rgb(0, 102, 255), transparent );
+    color: rgb(0, 0, 0);
+    padding: 3%;
+    margin: auto;
+    width: 80vw;
+    height: 23vh;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 0px black, -2px -2px 0px black, 2px -2px 0px black, -2px 2px 0px black;
+    text-align: center;
+}
